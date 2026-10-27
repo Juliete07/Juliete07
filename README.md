@@ -1,4 +1,4 @@
-Oiii!, eu sou a Juliete Reis!
+# Oiii!, eu sou a Juliete Reis!
 
 ### 👩‍💻 Analista de ADS | Suporte Técnico N1/N2 & Infraestrutura de TI
 
